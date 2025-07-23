@@ -40,6 +40,10 @@ python your_qr_code_generator_script_name.py
 
 3. tkinter: For creating the graphical user interface.
 
+   # ![image alt](https://github.com/Shubham88099/Qr-Code-Generator/blob/6e05887a5ad6e45dfec9471b21e40310f5a9cb57/QR-Screenshot%20%20121524.png?raw=true)
+
+   
+
 
 
 
